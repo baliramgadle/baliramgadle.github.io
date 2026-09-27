@@ -1,0 +1,375 @@
+{
+  "section": {
+    "eyebrow": "TECHNICAL EXPERTISE",
+    "title": "My AI Engineering stack",
+    "description": "The technologies and engineering capabilities I use across the lifecycle of building intelligent applications."
+  },
+
+  "categories": [
+    {
+      "id": "ai",
+      "title": "Generative & Agentic AI",
+      "shortTitle": "AI Engineering",
+      "icon": "BrainCircuit",
+      "description": "Building LLM-powered applications and autonomous workflows.",
+      "skills": [
+        {
+          "name": "Generative AI",
+          "level": "Core"
+        },
+        {
+          "name": "Agentic AI",
+          "level": "Core"
+        },
+        {
+          "name": "LLM Applications",
+          "level": "Core"
+        },
+        {
+          "name": "Multi-Agent Systems",
+          "level": "Core"
+        },
+        {
+          "name": "LangChain",
+          "level": "Core"
+        },
+        {
+          "name": "LangGraph",
+          "level": "Core"
+        },
+        {
+          "name": "Prompt Engineering",
+          "level": "Core"
+        },
+        {
+          "name": "Tool & Function Calling",
+          "level": "Core"
+        },
+        {
+          "name": "Routing & Orchestration",
+          "level": "Core"
+        },
+        {
+          "name": "Memory & State",
+          "level": "Working"
+        },
+        {
+          "name": "Human-in-the-Loop",
+          "level": "Working"
+        },
+        {
+          "name": "Self-Correction",
+          "level": "Working"
+        }
+      ]
+    },
+
+    {
+      "id": "rag",
+      "title": "RAG & Retrieval",
+      "shortTitle": "RAG",
+      "icon": "Database",
+      "description": "Designing grounded retrieval pipelines for reliable AI applications.",
+      "skills": [
+        {
+          "name": "RAG Architecture",
+          "level": "Core"
+        },
+        {
+          "name": "Document Ingestion",
+          "level": "Core"
+        },
+        {
+          "name": "Chunking",
+          "level": "Core"
+        },
+        {
+          "name": "Embeddings",
+          "level": "Core"
+        },
+        {
+          "name": "Vector Search",
+          "level": "Core"
+        },
+        {
+          "name": "Hybrid Search",
+          "level": "Core"
+        },
+        {
+          "name": "Reranking",
+          "level": "Core"
+        },
+        {
+          "name": "Grounded Citations",
+          "level": "Core"
+        },
+        {
+          "name": "RAG Evaluation",
+          "level": "Working"
+        },
+        {
+          "name": "pgvector",
+          "level": "Core"
+        },
+        {
+          "name": "OpenSearch",
+          "level": "Core"
+        },
+        {
+          "name": "HNSW",
+          "level": "Working"
+        }
+      ]
+    },
+
+    {
+      "id": "backend",
+      "title": "Python & Backend Engineering",
+      "shortTitle": "Backend",
+      "icon": "Server",
+      "description": "Engineering APIs and backend services that power AI applications.",
+      "skills": [
+        {
+          "name": "Python",
+          "level": "Core"
+        },
+        {
+          "name": "FastAPI",
+          "level": "Core"
+        },
+        {
+          "name": "Django",
+          "level": "Working"
+        },
+        {
+          "name": "REST APIs",
+          "level": "Core"
+        },
+        {
+          "name": "Async Programming",
+          "level": "Working"
+        },
+        {
+          "name": "Pydantic",
+          "level": "Core"
+        },
+        {
+          "name": "SQLAlchemy",
+          "level": "Core"
+        },
+        {
+          "name": "Authentication",
+          "level": "Working"
+        },
+        {
+          "name": "Authorization",
+          "level": "Working"
+        },
+        {
+          "name": "API Integration",
+          "level": "Core"
+        }
+      ]
+    },
+
+    {
+      "id": "data",
+      "title": "Data & Databases",
+      "shortTitle": "Data",
+      "icon": "DatabaseZap",
+      "description": "Working with structured data, AI retrieval stores and application databases.",
+      "skills": [
+        {
+          "name": "PostgreSQL",
+          "level": "Core"
+        },
+        {
+          "name": "pgvector",
+          "level": "Core"
+        },
+        {
+          "name": "OpenSearch",
+          "level": "Core"
+        },
+        {
+          "name": "MySQL",
+          "level": "Working"
+        },
+        {
+          "name": "MongoDB",
+          "level": "Working"
+        },
+        {
+          "name": "SQL",
+          "level": "Core"
+        },
+        {
+          "name": "NumPy",
+          "level": "Working"
+        },
+        {
+          "name": "Pandas",
+          "level": "Working"
+        }
+      ]
+    },
+
+    {
+      "id": "frontend",
+      "title": "Full-Stack AI",
+      "shortTitle": "Frontend",
+      "icon": "PanelsTopLeft",
+      "description": "Building responsive interfaces around AI-powered backend systems.",
+      "skills": [
+        {
+          "name": "React",
+          "level": "Core"
+        },
+        {
+          "name": "TypeScript",
+          "level": "Core"
+        },
+        {
+          "name": "JavaScript",
+          "level": "Working"
+        },
+        {
+          "name": "Vite",
+          "level": "Core"
+        },
+        {
+          "name": "Tailwind CSS",
+          "level": "Core"
+        },
+        {
+          "name": "AI Chat Interfaces",
+          "level": "Core"
+        },
+        {
+          "name": "Streaming Responses",
+          "level": "Working"
+        },
+        {
+          "name": "API Integration",
+          "level": "Core"
+        }
+      ]
+    },
+
+    {
+      "id": "production",
+      "title": "Production & Observability",
+      "shortTitle": "Production",
+      "icon": "Activity",
+      "description": "Engineering foundations for running and observing AI applications.",
+      "skills": [
+        {
+          "name": "Docker",
+          "level": "Core"
+        },
+        {
+          "name": "Git",
+          "level": "Core"
+        },
+        {
+          "name": "GitHub",
+          "level": "Core"
+        },
+        {
+          "name": "Linux",
+          "level": "Working"
+        },
+        {
+          "name": "Traefik",
+          "level": "Working"
+        },
+        {
+          "name": "MinIO",
+          "level": "Working"
+        },
+        {
+          "name": "OpenTelemetry",
+          "level": "Working"
+        },
+        {
+          "name": "Prometheus",
+          "level": "Working"
+        },
+        {
+          "name": "Grafana",
+          "level": "Working"
+        },
+        {
+          "name": "Langfuse",
+          "level": "Working"
+        }
+      ]
+    },
+
+    {
+      "id": "enterprise",
+      "title": "Enterprise AI",
+      "shortTitle": "Enterprise",
+      "icon": "Building2",
+      "description": "Enterprise technologies used to connect and secure AI workflows.",
+      "skills": [
+        {
+          "name": "Keycloak",
+          "level": "Working"
+        },
+        {
+          "name": "OIDC",
+          "level": "Working"
+        },
+        {
+          "name": "OPA",
+          "level": "Working"
+        },
+        {
+          "name": "ServiceNow Integration",
+          "level": "Working"
+        },
+        {
+          "name": "Workday Integration",
+          "level": "Working"
+        },
+        {
+          "name": "Azure",
+          "level": "Working"
+        }
+      ]
+    }
+  ],
+
+  "engineeringCapabilities": [
+    "AI Solution Architecture",
+    "RAG Pipeline Design",
+    "Agentic Workflow Design",
+    "Multi-Agent Orchestration",
+    "Backend API Development",
+    "AI Application Integration",
+    "LLM Evaluation",
+    "AI Observability",
+    "Enterprise API Integration",
+    "Technical Problem Solving"
+  ],
+
+  "languages": [
+    {
+      "name": "Python",
+      "focus": "Primary engineering language"
+    },
+    {
+      "name": "SQL",
+      "focus": "Data and database development"
+    },
+    {
+      "name": "TypeScript",
+      "focus": "Frontend application development"
+    },
+    {
+      "name": "JavaScript",
+      "focus": "Web application development"
+    }
+  ]
+}

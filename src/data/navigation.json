@@ -1,0 +1,38 @@
+{
+  "items": [
+    {
+      "label": "Home",
+      "target": "#home"
+    },
+    {
+      "label": "About",
+      "target": "#about"
+    },
+    {
+      "label": "Experience",
+      "target": "#experience"
+    },
+    {
+      "label": "Projects",
+      "target": "#projects"
+    },
+    {
+      "label": "Skills",
+      "target": "#skills"
+    },
+    {
+      "label": "Achievements",
+      "target": "#achievements"
+    },
+    {
+      "label": "Contact",
+      "target": "#contact"
+    }
+  ],
+  "actions": {
+    "resume": {
+      "label": "View Resume",
+      "url": "../public/Baliram_Gadle_Resume.pdf"
+    }
+  }
+}

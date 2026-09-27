@@ -1,0 +1,305 @@
+{
+  "section": {
+    "eyebrow": "SELECTED WORK",
+    "title": "AI systems I've built",
+    "description": "A selection of Generative AI, Agentic AI and intelligent automation solutions developed across TCS initiatives and AI Fridays."
+  },
+
+  "featuredProject": {
+    "id": "insurexai",
+    "badge": "AI FRIDAYS • NATIONAL FINALS",
+    "title": "InsurexAI",
+    "subtitle": "AI-Powered Insurance Decision & Regulatory Intelligence Platform",
+    "description": "An AI-powered platform designed to support insurance decisioning across subrogation recovery and rate-filing regulatory readiness using document intelligence, RAG and multi-agent AI workflows.",
+
+    "impact": [
+      "Subrogation Recovery Decisioning",
+      "Rate Filing & Regulatory Readiness",
+      "Evidence-grounded AI decision support",
+      "Multi-agent insurance intelligence"
+    ],
+
+    "capabilities": [
+      "Document ingestion & processing",
+      "Semantic and hybrid retrieval",
+      "Reranking",
+      "Grounded citations",
+      "Multi-agent orchestration",
+      "AI decision workflows",
+      "Regulatory analysis",
+      "Evidence-based recommendations"
+    ],
+
+    "architecture": [
+      "React",
+      "TypeScript",
+      "Vite",
+      "Tailwind CSS",
+      "Python",
+      "FastAPI",
+      "Pydantic",
+      "SQLAlchemy",
+      "PostgreSQL",
+      "pgvector",
+      "OpenSearch",
+      "LangChain",
+      "LangGraph",
+      "MinIO",
+      "Keycloak",
+      "OPA",
+      "Traefik",
+      "OpenTelemetry",
+      "Prometheus",
+      "Grafana",
+      "Langfuse"
+    ],
+
+    "modules": [
+      {
+        "name": "Subrogation Decision Engine",
+        "description": "Supports evidence analysis and recovery decisioning by connecting documents, entities, events and relationships."
+      },
+      {
+        "name": "Rate Filing Assistant",
+        "description": "Supports rate-filing analysis and regulatory readiness using filing information, requirements, regulations and supporting evidence."
+      }
+    ],
+
+    "myContribution": "Contributed to architecture, backend development, AI workflow implementation and frontend integration across the solution.",
+
+    "recognition": [
+      "AI Fridays Regional Finals Winner",
+      "AI Fridays National Finalist"
+    ],
+
+    "tags": [
+      "Generative AI",
+      "Agentic AI",
+      "RAG",
+      "Insurance",
+      "Multi-Agent",
+      "Decision Intelligence"
+    ],
+
+    "links": {
+      "demo": "",
+      "github": ""
+    },
+
+    "featured": true
+  },
+
+  "projects": [
+    {
+      "id": "retirement-insurance-advisor",
+      "title": "AI-Powered Retirement Insurance Advisor",
+      "subtitle": "RAG-powered insurance advisory platform",
+      "description": "An AI-powered insurance advisor combining policy documents, retrieval and conversational interaction to help users explore retirement insurance information through a grounded chatbot and dashboard experience.",
+      "category": "Generative AI",
+      "recognition": "AI Fridays",
+      "features": [
+        "Policy document understanding",
+        "RAG pipeline",
+        "LLM-powered chatbot",
+        "Grounded responses",
+        "Insurance dashboard"
+      ],
+      "technology": [
+        "Python",
+        "RAG",
+        "LLMs",
+        "Embeddings",
+        "Vector Search",
+        "Chatbot"
+      ],
+      "tags": [
+        "RAG",
+        "LLM",
+        "Insurance",
+        "Chatbot"
+      ],
+      "featured": false
+    },
+
+    {
+      "id": "retail-fraud-detection",
+      "title": "Retail Fraud Transaction Detection",
+      "subtitle": "Multi-agent fraud intelligence platform",
+      "description": "A multi-agent AI platform designed to analyze retail transactions and support fraud detection through specialized agents working across an orchestrated workflow.",
+      "category": "Agentic AI",
+      "recognition": "AI Fridays",
+      "features": [
+        "Multi-agent architecture",
+        "Transaction analysis",
+        "Agent orchestration",
+        "Intelligent routing",
+        "Fraud detection workflow"
+      ],
+      "technology": [
+        "Python",
+        "LangGraph",
+        "Multi-Agent AI",
+        "LLMs",
+        "Tool Calling",
+        "Agent Orchestration"
+      ],
+      "tags": [
+        "Agentic AI",
+        "Multi-Agent",
+        "Fraud Detection",
+        "LangGraph"
+      ],
+      "featured": false
+    },
+
+    {
+      "id": "ai-fridays-pre-regional",
+      "title": "AI Fridays — Pre-Regional Solution",
+      "subtitle": "Enterprise AI solution",
+      "description": "An enterprise-oriented AI solution developed during the AI Fridays journey, progressing through the competition stages toward the regional and national rounds.",
+      "category": "Generative AI",
+      "recognition": "AI Fridays • Pre-Regional",
+      "features": [
+        "Enterprise AI workflow",
+        "LLM integration",
+        "AI-assisted analysis",
+        "Solution architecture"
+      ],
+      "technology": [
+        "Python",
+        "Generative AI",
+        "LLMs",
+        "RAG",
+        "Agentic Workflows"
+      ],
+      "tags": [
+        "Generative AI",
+        "Enterprise AI"
+      ],
+      "featured": false
+    },
+
+    {
+      "id": "requirement-testing-pipeline",
+      "title": "Requirement-to-Implementation Agentic Pipeline",
+      "subtitle": "AI-powered software engineering workflow",
+      "description": "An agentic workflow designed to identify gaps from requirements, generate test cases and support implementation through coordinated AI agents.",
+      "category": "Agentic AI",
+      "recognition": "TCS Enterprise AI",
+      "features": [
+        "Requirement analysis",
+        "Gap identification",
+        "Test generation",
+        "Implementation assistance",
+        "Agentic workflow orchestration"
+      ],
+      "technology": [
+        "Python",
+        "LangGraph",
+        "LLMs",
+        "Agentic AI",
+        "Tool Calling"
+      ],
+      "tags": [
+        "Agentic AI",
+        "Software Engineering",
+        "Test Generation"
+      ],
+      "featured": false
+    },
+
+    {
+      "id": "hr-onboarding",
+      "title": "HR Onboarding Agentic Automation",
+      "subtitle": "Enterprise employee onboarding workflow",
+      "description": "An agentic automation workflow for HR onboarding integrating enterprise systems and coordinating tasks across the onboarding process.",
+      "category": "Agentic Automation",
+      "recognition": "TCS Enterprise AI",
+      "features": [
+        "Agentic workflow",
+        "Enterprise integrations",
+        "Onboarding automation",
+        "Task orchestration",
+        "ServiceNow integration",
+        "Workday integration"
+      ],
+      "technology": [
+        "Python",
+        "Agentic AI",
+        "LLMs",
+        "ServiceNow",
+        "Workday",
+        "API Integration"
+      ],
+      "tags": [
+        "Agentic AI",
+        "HR Automation",
+        "Enterprise Integration"
+      ],
+      "featured": false
+    },
+
+    {
+      "id": "agentic-governance",
+      "title": "Agentic Governance Platform",
+      "subtitle": "Governance layer for AI agents",
+      "description": "An enterprise-oriented platform focused on governance and management of agentic AI workflows and applications.",
+      "category": "AI Governance",
+      "recognition": "TCS Enterprise AI",
+      "features": [
+        "Agent governance",
+        "Workflow management",
+        "Enterprise AI controls",
+        "AI lifecycle support"
+      ],
+      "technology": [
+        "Python",
+        "Agentic AI",
+        "LLMs",
+        "API Services"
+      ],
+      "tags": [
+        "AI Governance",
+        "Agentic AI",
+        "Enterprise AI"
+      ],
+      "featured": false
+    },
+
+    {
+      "id": "parts-cross-sell",
+      "title": "Parts Cross-Sell & Upsell Automation",
+      "subtitle": "Agentic sales intelligence workflow",
+      "description": "An agentic automation workflow supporting intelligent parts cross-sell and upsell recommendations within an enterprise business process.",
+      "category": "Agentic Automation",
+      "recognition": "TCS Enterprise AI",
+      "features": [
+        "Agentic recommendations",
+        "Workflow automation",
+        "Cross-sell intelligence",
+        "Upsell intelligence",
+        "Enterprise integration"
+      ],
+      "technology": [
+        "Python",
+        "Agentic AI",
+        "LLMs",
+        "API Integration"
+      ],
+      "tags": [
+        "Agentic AI",
+        "Automation",
+        "Recommendation"
+      ],
+      "featured": false
+    }
+  ],
+
+  "filters": [
+    "All",
+    "Generative AI",
+    "Agentic AI",
+    "Agentic Automation",
+    "AI Governance"
+  ]
+}

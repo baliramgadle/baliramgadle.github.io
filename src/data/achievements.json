@@ -1,0 +1,129 @@
+{
+  "section": {
+    "eyebrow": "ACHIEVEMENTS",
+    "title": "Recognition & milestones",
+    "description": "Milestones that reflect technical performance, competitive problem solving and continuous growth in AI engineering."
+  },
+
+  "achievements": [
+    {
+      "id": "ai-fridays-national-finalist",
+      "title": "AI Fridays National Finalist",
+      "organization": "Tata Consultancy Services",
+      "category": "Competition",
+      "date": "2026",
+      "icon": "Trophy",
+      "featured": true,
+      "description": "Reached the AI Fridays National Finals after progressing through the competition stages with an enterprise Generative AI and Agentic AI solution.",
+      "highlights": [
+        "National Finalist",
+        "InsurexAI",
+        "Generative AI",
+        "Agentic AI"
+      ]
+    },
+
+    {
+      "id": "ai-fridays-regional-winner",
+      "title": "AI Fridays Regional Finals Winner",
+      "organization": "Tata Consultancy Services",
+      "category": "Competition",
+      "date": "2026",
+      "icon": "Award",
+      "featured": true,
+      "description": "Won the AI Fridays Regional Finals with an enterprise AI solution and progressed to the national-level competition.",
+      "highlights": [
+        "Regional Finals Winner",
+        "Enterprise AI",
+        "Solution Architecture",
+        "Technical Pitch"
+      ]
+    },
+
+    {
+      "id": "aiml-topper",
+      "title": "AIML Topper Award",
+      "organization": "TCS Ignite",
+      "category": "Academic",
+      "date": "2026",
+      "icon": "GraduationCap",
+      "featured": true,
+      "description": "Recognized as an AIML Topper during the intensive TCS Ignite training program."
+    },
+
+    {
+      "id": "aiml-ignite-champion",
+      "title": "AIML Ignite Champion — Top Performer",
+      "organization": "TCS Ignite",
+      "category": "Performance",
+      "date": "2026",
+      "icon": "Medal",
+      "featured": true,
+      "description": "Recognized among the top performers during the TCS Ignite AIML program."
+    },
+
+    {
+      "id": "ignite-ranking",
+      "title": "Top 15–20 Overall",
+      "organization": "TCS Ignite",
+      "category": "Ranking",
+      "date": "2026",
+      "icon": "TrendingUp",
+      "featured": false,
+      "description": "Achieved an overall ranking within the top 15–20 among approximately 565 trainees."
+    },
+
+    {
+      "id": "batch-rank",
+      "title": "Batch Rank #2",
+      "organization": "TCS Ignite — Batch 46",
+      "category": "Ranking",
+      "date": "2026",
+      "icon": "BadgeCheck",
+      "featured": false,
+      "description": "Secured second position within the Ignite batch."
+    },
+
+    {
+      "id": "leetcode",
+      "title": "200+ Problems Solved",
+      "organization": "LeetCode",
+      "category": "Problem Solving",
+      "date": "2026",
+      "icon": "Code2",
+      "featured": false,
+      "description": "Solved 200+ programming problems while strengthening algorithmic thinking and problem-solving fundamentals.",
+      "link": "https://leetcode.com/u/baliramgadle/"
+    },
+
+    {
+      "id": "bca-academic",
+      "title": "BCA — 80% | 8.0 CGPA",
+      "organization": "Dr. Babasaheb Ambedkar Marathwada University",
+      "category": "Education",
+      "date": "2025",
+      "icon": "BookOpen",
+      "featured": false,
+      "description": "Completed Bachelor of Computer Applications with 80%, 8.0 CGPA and A++ grade."
+    }
+  ],
+
+  "highlights": [
+    {
+      "value": "National",
+      "label": "AI Fridays Finalist"
+    },
+    {
+      "value": "#1",
+      "label": "Regional Finals Winner"
+    },
+    {
+      "value": "#2",
+      "label": "Ignite Batch Rank"
+    },
+    {
+      "value": "200+",
+      "label": "LeetCode Problems"
+    }
+  ]
+}

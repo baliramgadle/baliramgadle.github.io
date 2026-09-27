@@ -1,0 +1,106 @@
+{
+  "section": {
+    "eyebrow": "CERTIFICATIONS",
+    "title": "Credentials & certifications",
+    "description": "Professional certifications and recognized credentials across Generative AI, Agentic AI and enterprise AI."
+  },
+
+  "certifications": [
+    {
+      "id": "claude-developer-foundations",
+      "title": "Claude Certified Developer Foundations",
+      "issuer": "Anthropic",
+      "category": "Generative AI",
+      "type": "Professional Certification",
+      "date": "",
+      "icon": "Sparkles",
+      "description": "Certification covering foundational concepts and development practices for building applications with Claude.",
+      "credentialUrl": "",
+      "certificateUrl": "",
+      "featured": true
+    },
+
+    {
+      "id": "claude-architect-foundations",
+      "title": "Claude Certified Architect Foundations",
+      "issuer": "Anthropic",
+      "category": "AI Architecture",
+      "type": "Professional Certification",
+      "date": "",
+      "icon": "Network",
+      "description": "Certification focused on foundational architecture concepts for designing applications and systems powered by Claude.",
+      "credentialUrl": "",
+      "certificateUrl": "",
+      "featured": true
+    },
+
+    {
+      "id": "claude-developer-professional",
+      "title": "Claude Certified Developer Professional",
+      "issuer": "Anthropic",
+      "category": "Generative AI",
+      "type": "Professional Certification",
+      "date": "",
+      "icon": "BadgeCheck",
+      "description": "Professional-level certification demonstrating knowledge of developing applications with Claude.",
+      "credentialUrl": "",
+      "certificateUrl": "",
+      "featured": true
+    },
+
+    {
+      "id": "ai-fridays-regional-final-winner",
+      "title": "AI Fridays Regional Finals Winner",
+      "issuer": "Tata Consultancy Services",
+      "category": "AI Competition",
+      "type": "Winner Certificate",
+      "date": "2026",
+      "icon": "Trophy",
+      "description": "Certificate recognizing the Regional Finals winning achievement in the TCS AI Fridays competition.",
+      "credentialUrl": "",
+      "certificateUrl": "",
+      "featured": true
+    },
+
+    {
+      "id": "ai-fridays-national-finalist",
+      "title": "AI Fridays National Finalist",
+      "issuer": "Tata Consultancy Services",
+      "category": "AI Competition",
+      "type": "Participation Certificate",
+      "date": "2026",
+      "icon": "Award",
+      "description": "Certificate recognizing participation as a National Finalist in the TCS AI Fridays competition.",
+      "credentialUrl": "",
+      "certificateUrl": "",
+      "featured": true
+    }
+  ],
+
+  "developmentPrograms": [
+    {
+      "title": "TCS Ignite",
+      "organization": "Tata Consultancy Services",
+      "duration": "4.5 months",
+      "focus": [
+        "Artificial Intelligence & Machine Learning",
+        "Python",
+        "Data Science",
+        "Machine Learning",
+        "Generative AI"
+      ]
+    },
+    {
+      "title": "TCS AI SuperLeague",
+      "organization": "Tata Consultancy Services",
+      "duration": "3 months",
+      "focus": [
+        "Generative AI",
+        "Agentic AI",
+        "LLM Applications",
+        "RAG",
+        "AI Engineering"
+      ]
+    }
+  ]
+}

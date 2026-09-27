@@ -1,0 +1,99 @@
+{
+  "section": {
+    "eyebrow": "EDUCATION",
+    "title": "Academic journey",
+    "description": "A foundation in computer science followed by advanced specialization in artificial intelligence."
+  },
+
+  "education": [
+    {
+      "id": "mca-ai",
+      "institution": "Chandigarh University (CU)",
+      "degree": "Master of Computer Applications",
+      "specialization": "Artificial Intelligence",
+      "type": "Postgraduate",
+      "startDate": "May 2026",
+      "endDate": "May 2028",
+      "status": "In Progress",
+      "location": "India",
+      "grade": "",
+      "gradeLabel": "",
+      "logo": "/assets/images/education/chandigarh-university.png",
+      "institutionUrl": "https://www.linkedin.com/school/7921082/",
+      "description": "Pursuing postgraduate specialization in Artificial Intelligence.",
+      "highlights": [
+        "Artificial Intelligence",
+        "Advanced Computing",
+        "AI Engineering"
+      ],
+      "featured": true
+    },
+
+    {
+      "id": "bca",
+      "institution": "Dr. Babasaheb Ambedkar Marathwada University",
+      "degree": "Bachelor's Degree",
+      "specialization": "Computer Science",
+      "type": "Undergraduate",
+      "startDate": "July 2022",
+      "endDate": "June 2025",
+      "status": "Completed",
+      "location": "Sambhajinagar, Maharashtra, India",
+      "grade": "A++",
+      "gradeLabel": "Grade",
+      "percentage": "80%",
+      "cgpa": "8.0",
+      "logo": "/assets/images/education/bamu.png",
+      "institutionUrl": "https://www.linkedin.com/school/15093689/",
+      "description": "Completed undergraduate studies in Computer Science with an A++ grade.",
+      "highlights": [
+        "80%",
+        "8.0 CGPA",
+        "A++ Grade"
+      ],
+      "featured": true
+    },
+
+    {
+      "id": "hsc",
+      "institution": "Shri. Chhatrapati Shivaji Shikshan Sanstha's Vasant Mahavidyalaya, Kaij.",
+      "degree": "HSC",
+      "specialization": "",
+      "type": "Higher Secondary",
+      "startDate": "June 2021",
+      "endDate": "June 2022",
+      "status": "Completed",
+      "location": "Kaij, Beed, Maharashtra, India",
+      "grade": "85.33%",
+      "gradeLabel": "Percentage",
+      "logo": "/assets/images/education/vasant-mahavidyalaya.png",
+      "institutionUrl": "https://www.linkedin.com/school/15128418/",
+      "description": "Completed Higher Secondary education with 85.33%.",
+      "highlights": [
+        "85.33%"
+      ],
+      "featured": false
+    },
+
+    {
+      "id": "ssc",
+      "institution": "Malegaon Highschool Malegaon",
+      "degree": "SSC",
+      "specialization": "",
+      "type": "Secondary School",
+      "startDate": "June 2019",
+      "endDate": "June 2020",
+      "status": "Completed",
+      "location": "Maharashtra, India",
+      "grade": "84.80%",
+      "gradeLabel": "Percentage",
+      "logo": "/assets/images/education/malegaon-highschool.png",
+      "institutionUrl": "",
+      "description": "Completed Secondary School education with 84.80%.",
+      "highlights": [
+        "84.80%"
+      ],
+      "featured": false
+    }
+  ]
+}

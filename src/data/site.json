@@ -1,0 +1,89 @@
+{
+  "name": "Baliram Gadle",
+  "shortName": "Ram",
+  "role": "AI Engineer",
+  "headline": "Building intelligent systems with Generative AI, RAG & Agentic AI",
+  "availability": "Open to AI Engineering opportunities",
+  "location": "Pune, Maharashtra, India",
+  "email": "baliramgadle@gmail.com",
+  "phone": "+91 9370792534",
+
+  "socials": {
+    "linkedin": "https://linkedin.com/in/baliramgadle",
+    "github": "https://github.com/baliramgadle",
+    "leetcode": "https://leetcode.com/u/baliramgadle/"
+  },
+
+  "hero": {
+    "eyebrow": "AI ENGINEER • GENERATIVE AI • AGENTIC AI",
+    "title": "Engineering AI systems that",
+    "highlight": "think, retrieve & act.",
+    "description": "AI Engineer at TCS building production-oriented Generative AI and Agentic AI solutions across RAG, multi-agent orchestration, intelligent automation and enterprise applications.",
+    "primaryCta": {
+      "label": "Explore My Work",
+      "target": "#projects"
+    },
+    "secondaryCta": {
+      "label": "Let's Connect",
+      "target": "#contact"
+    }
+  },
+
+  "about": {
+    "title": "From ideas to intelligent systems",
+    "description": "I work across the AI engineering lifecycle—from understanding a business problem and designing the architecture to building, integrating, evaluating and presenting intelligent applications.",
+    "focus": [
+      "Generative AI",
+      "Agentic AI",
+      "RAG Systems",
+      "Multi-Agent Workflows",
+      "Python Backend Engineering",
+      "Full-Stack AI Applications"
+    ]
+  },
+
+  "stats": [
+    {
+      "value": "1+",
+      "label": "Year at TCS"
+    },
+    {
+      "value": "200+",
+      "label": "LeetCode Problems"
+    },
+    {
+      "value": "4.5",
+      "label": "Months AIML Training"
+    },
+    {
+      "value": "3",
+      "label": "Months GenAI & Agentic AI"
+    }
+  ],
+
+  "profile": {
+    "summary": "AI Engineer with hands-on experience designing and developing Generative AI, Agentic AI and RAG applications using Python, LangChain, LangGraph, FastAPI and modern retrieval technologies. Experienced in building enterprise-oriented AI workflows, multi-agent systems, intelligent automation pipelines and full-stack AI applications.",
+    "specialization": [
+      "Generative AI",
+      "Agentic AI",
+      "Retrieval-Augmented Generation",
+      "Multi-Agent Systems",
+      "LLM Applications",
+      "AI Application Architecture"
+    ]
+  },
+
+  "contact": {
+    "title": "Have an AI idea?",
+    "subtitle": "Let's build something intelligent.",
+    "description": "I'm interested in AI engineering opportunities, technically challenging projects and conversations around Generative AI, Agentic AI and intelligent systems.",
+    "emailLabel": "Email Me",
+    "linkedinLabel": "Connect on LinkedIn",
+    "githubLabel": "View GitHub"
+  },
+
+  "footer": {
+    "text": "Designed & engineered by Baliram Gadle",
+    "tagline": "Building the future, one intelligent system at a time."
+  }
+}

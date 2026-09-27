@@ -1,0 +1,111 @@
+{
+  "section": {
+    "eyebrow": "EXPERIENCE",
+    "title": "Engineering AI in the enterprise",
+    "description": "Hands-on experience building Generative AI, Agentic AI and full-stack AI solutions across enterprise use cases."
+  },
+
+  "experience": [
+    {
+      "company": "Tata Consultancy Services",
+      "shortCompany": "TCS",
+      "role": "AI Engineer / Assistant System Engineer",
+      "employmentType": "Full-time",
+      "startDate": "September 2025",
+      "endDate": "Present",
+      "location": "Pune, Maharashtra, India",
+      "current": true,
+
+      "journey": [
+        {
+          "role": "Graduate Trainee",
+          "startDate": "September 2025",
+          "endDate": "January 2026",
+          "location": "Chennai, India",
+          "description": "Completed intensive AIML-focused training and transitioned into enterprise AI engineering."
+        },
+        {
+          "role": "Assistant System Engineer Trainee",
+          "startDate": "February 2026",
+          "endDate": "September 2026",
+          "location": "Pune, India",
+          "description": "Worked across enterprise AI initiatives involving Generative AI, Agentic AI and intelligent automation."
+        },
+        {
+          "role": "Assistant System Engineer",
+          "startDate": "September 2026",
+          "endDate": "Present",
+          "location": "Pune, India",
+          "description": "Working in an AI Engineering role focused on designing and developing enterprise AI solutions."
+        }
+      ],
+
+      "summary": "Build and contribute to enterprise AI applications spanning RAG, Agentic AI, intelligent automation, AI governance and full-stack AI engineering.",
+
+      "highlights": [
+        {
+          "title": "Generative AI & RAG",
+          "description": "Build retrieval-augmented generation pipelines covering document ingestion, chunking, embeddings, vector search, hybrid retrieval, reranking, grounded citations and evaluation."
+        },
+        {
+          "title": "Agentic AI",
+          "description": "Develop stateful agentic workflows using LangGraph with multi-agent orchestration, routing, tool and function calling, memory/state, human-in-the-loop interaction, retries, error handling and self-correction."
+        },
+        {
+          "title": "AI Backend Engineering",
+          "description": "Develop Python and FastAPI services using Pydantic and SQLAlchemy, with PostgreSQL, pgvector and OpenSearch supporting AI application and retrieval layers."
+        },
+        {
+          "title": "Full-Stack AI Applications",
+          "description": "Integrate AI backends with React, TypeScript, Vite and Tailwind-based interfaces, including conversational chat experiences and streaming responses."
+        },
+        {
+          "title": "Enterprise AI Workflows",
+          "description": "Contribute to requirement-to-gap identification, test generation and implementation pipelines, HR onboarding automation, AI governance and parts cross-sell/upsell workflows."
+        },
+        {
+          "title": "Architecture & Engineering",
+          "description": "Contribute across solution architecture, implementation, integration, debugging, technical demonstrations and end-to-end AI application development."
+        }
+      ],
+
+      "workstreams": [
+        {
+          "name": "Requirement & Testing Intelligence",
+          "type": "Agentic AI",
+          "description": "Agentic pipeline for requirement-to-gap identification, test generation and implementation."
+        },
+        {
+          "name": "HR Onboarding Automation",
+          "type": "Agentic Workflow",
+          "description": "AI-driven onboarding workflow integrating enterprise systems including ServiceNow and Workday."
+        },
+        {
+          "name": "Agentic Governance Platform",
+          "type": "AI Governance",
+          "description": "Enterprise-oriented platform for governing and managing agentic AI workflows."
+        },
+        {
+          "name": "Parts Cross-Sell & Upsell",
+          "type": "Agentic Automation",
+          "description": "Agentic workflow supporting intelligent parts cross-sell and upsell automation."
+        }
+      ],
+
+      "technology": [
+        "Python",
+        "FastAPI",
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "PostgreSQL",
+        "pgvector",
+        "OpenSearch",
+        "React",
+        "TypeScript",
+        "Docker",
+        "Git"
+      ]
+    }
+  ]
+}
